@@ -40,16 +40,13 @@ I’m always excited to learn new things, take on new projects, and be part of a
 
 ### 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fahmid1234)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Fahmid1234)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmid1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahmid1234&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahmid1234&show_icons=true&theme=default)
 
-![GitHub streak](https://streak-stats.demolab.com/?user=Fahmid1234)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fahmid1234)
 
 ![GitHub Metrics](https://metrics.lecoq.io/Fahmid1234)
-
-
 ---
-
