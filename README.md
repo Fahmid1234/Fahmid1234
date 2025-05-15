@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHI200x35ot5Q/profile-displaybackgroundimage-shrink_350_1400/0/1719393776899?e=1752710400&v=beta&t=ArpSq3FFyz0PsCcMXZ7J08W4c42G00tyybbsv9a2B3E" alt="banner" width="100%"/>
+(https://media.licdn.com/dms/image/v2/D5616AQHI200x35ot5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719393776899?e=1752710400&v=beta&t=ArpSq3FFyz0PsCcMXZ7J08W4c42G00tyybbsv9a2B3E)
 
 ### Hi there 👋, I'm Fahmid
 #### Web Developer
