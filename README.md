@@ -39,7 +39,7 @@ I’m always excited to learn new things, take on new projects, and be part of a
 ---
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahmid1234&show_icons=true&theme=radical)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Fahmid1234)](https://github.com/ryo-ma/github-profile-trophy)
 
