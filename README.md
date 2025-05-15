@@ -19,11 +19,11 @@ I’m always excited to learn new things, take on new projects, and be part of a
 
 ### 🔍 About Me
 
-- 🔭 I’m currently working on some personal projects  
-- 🌱 I’m currently learning **React JS** & **JavaScript**  
-- 👯 I’m looking to collaborate on GitHub  
-- 💬 Ask me about Web Development  
-- 📫 Reach me at: **+8801531184246**
+✅ 🔭 I’m currently working on some personal projects  
+✅ 🌱 I’m currently learning **React JS** & **JavaScript**  
+✅ 👯 I’m looking to collaborate on GitHub  
+✅ 💬 Ask me about Web Development  
+✅ 📫 Reach me at: **+8801531184246**
 
 ---
 
