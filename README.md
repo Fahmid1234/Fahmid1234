@@ -21,7 +21,7 @@ Skills: HTML / CSS / JS / Python / Django / Flask / MySQL / Git & GiitHub
 
 (https://twitter.com/https://x.com/Fahmid4233)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fahmid1234.github.io/Fahmid-portfolio/)  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Fahmid1234)(https://github.com/ryo-ma/github-profile-trophy)
+[[trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Fahmid1234)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Fahmid1234)](https://github.com/anuraghazra/github-readme-stats)
 
