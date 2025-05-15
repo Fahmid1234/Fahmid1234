@@ -48,7 +48,8 @@ I’m always excited to learn new things, take on new projects, and be part of a
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=Fahmid1234)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Fahmid1234)
+![GitHub Metrics](https://metrics.lecoq.io/Fahmid1234)
+
 
 ---
 
